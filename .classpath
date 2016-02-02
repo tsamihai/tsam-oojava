@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Alieni/src"/>
+	<classpathentry kind="src" path="Aziendina/src"/>
+	<classpathentry kind="src" path="BaseMetabolicRate/src"/>
+	<classpathentry kind="src" path="CambiaMonete/src"/>
+	<classpathentry kind="src" path="Comercialista/src"/>
+	<classpathentry kind="src" path="IMC/src"/>
+	<classpathentry kind="src" path="Videoteca/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Alieni/bin"/>
+</classpath>
